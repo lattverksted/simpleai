@@ -16,6 +16,8 @@ At this moment, the implementation includes:
     * Interactive execution viewers for search algorithms (web-based and terminal-based)
 * Machine Learning
     * Statistical Classification 
+	
+With a some core functionalities implemented in C
 
 
 Installation
