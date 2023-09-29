@@ -15,7 +15,9 @@ At this moment, the implementation includes:
     * Constraint Satisfaction Problems algorithms
     * Interactive execution viewers for search algorithms (web-based and terminal-based)
 * Machine Learning
-    * Statistical Classification 
+    * Statistical Classification
+
+using parallelism	
 
 
 Installation
